@@ -22,15 +22,15 @@ header, nav, footer{
 section{
 		float: left;
 		width: 495px;
-		margin:10px 5px 20px 0px;
+		margin:10px 5px 10px 0px;
 		padding: 40px 0 1px 0;
 		display: inline;
 	    }
 article{
 		width: 470px;
 		text-align: center;
-		margin:30px 0px 10px 10px;
-		padding: 20px 0px 5px 0px;
+		margin:20px 10px 10px 10px;
+		padding: 20px 0px 5px 5px;
 		display: block;
 		font-size: 18px;
 		background-color: #777;
@@ -38,7 +38,7 @@ article{
 		}
 .H-content{
 	width: 410px;
-	margin:20px 10px 10px 30px;
+	margin:25px 10px 10px 30px;
 	padding: 5px 0px 10px 0px;
 	}
 h1, h2, h3{
@@ -54,4 +54,5 @@ aside{
 	width: 445px;
 	margin:10px 0px 20px 15px;
 	padding: 45px 0 200px 0;
+	height: 18px
 			}
